@@ -24,7 +24,7 @@
 .drum-pad{
   margin: 1.66667%;
   width: 30%;
-  height: 20vh;
+  min-height: 20vh;
 }
 
 .drum-vol-slider{
